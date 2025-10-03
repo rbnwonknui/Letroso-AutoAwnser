@@ -24,7 +24,7 @@
 ### 🟩┃Bookmarklet
 
 ```js
-javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Letreco-AutoAwnser/refs/heads/main/Versions/LetrosoAutoAwnser.Js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Letroso-AutoAwnser/refs/heads/main/Versions/LetrosoAutoAwnser.Js").then(t=>t.text()).then(eval);
 ```
 
 ---
@@ -97,3 +97,4 @@ javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Letreco-AutoAwnse
 <p align="center">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=rbnwonknui&style=for-the-badge&label=Views:&color=gray"/></a>
 </p>
+
